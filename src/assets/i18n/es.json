@@ -1,0 +1,10 @@
+{
+  "HOME": {
+    "TITLE": "Hola ngx-translate!",
+    "SELECT": "Cambiar lenguaje"
+  },
+  "date": {
+    "timezon": "0100",
+    "date-format": "long"
+  }
+}

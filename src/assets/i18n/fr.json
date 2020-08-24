@@ -2,5 +2,9 @@
   "HOME": {
     "TITLE": "Bonjour Angular avec ngx-translate !",
     "SELECT": "Changer la langue"
+  },
+  "date": {
+    "timezon": "0100",
+    "date-format": "short"
   }
 }
